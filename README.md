@@ -68,37 +68,6 @@ Examples include:
 
 ---
 
-## 🚆 Major Project — Smart Metro Station Simulation
-
-One of the major projects in this repository is an interactive **Smart Metro Station Simulation** developed using C++ and OpenGL.
-
-The project demonstrates how computer graphics concepts can be combined to create a dynamic real-world environment.
-
-### ✨ Features
-
-* 🚆 Animated metro train
-* 🚉 Metro station environment
-* 🚪 Train door animation
-* 🚦 Signal system
-* ☁️ Moving clouds
-* 🐦 Animated birds
-* 🌧️ Rain effect
-* 🌙 Day/Night environment
-* ⏰ Digital clock
-* 🎮 Keyboard-controlled interactions
-
-### 🎮 Controls
-
-| Key | Action            |
-| --- | ----------------- |
-| `A` | Train Arrival     |
-| `D` | Train Departure   |
-| `N` | Toggle Night Mode |
-| `R` | Toggle Rain       |
-
-The project demonstrates practical applications of **translation, rotation, scaling, animation, object composition, keyboard interaction, and OpenGL rendering**.
-
----
 
 ## 🗂️ Repository Structure
 
@@ -124,9 +93,6 @@ Computer-Graphics/
 ├── Lab7.cpp
 ├── Lab8.cpp
 ├── Lab9.cpp
-│
-├── Metro.cpp
-├── Metro2.cpp
 │
 ├── boat.cpp
 ├── check.cpp
